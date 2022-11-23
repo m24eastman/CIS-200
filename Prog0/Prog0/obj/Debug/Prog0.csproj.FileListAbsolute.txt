@@ -1,0 +1,7 @@
+C:\Users\Sam\Desktop\CIS 200\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\Sam\Desktop\CIS 200\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\Sam\Desktop\CIS 200\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\Sam\Desktop\CIS 200\Prog0\Prog0\obj\Debug\Prog0.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\CIS 200\Prog0\Prog0\obj\Debug\Prog0.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\CIS 200\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\Sam\Desktop\CIS 200\Prog0\Prog0\obj\Debug\Prog0.pdb
