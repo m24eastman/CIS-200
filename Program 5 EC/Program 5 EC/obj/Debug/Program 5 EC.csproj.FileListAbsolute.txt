@@ -1,0 +1,7 @@
+C:\Users\15029\Desktop\Program 5 EC\Program 5 EC\bin\Debug\Program 5 EC.exe.config
+C:\Users\15029\Desktop\Program 5 EC\Program 5 EC\bin\Debug\Program 5 EC.exe
+C:\Users\15029\Desktop\Program 5 EC\Program 5 EC\bin\Debug\Program 5 EC.pdb
+C:\Users\15029\Desktop\Program 5 EC\Program 5 EC\obj\Debug\Program 5 EC.csprojAssemblyReference.cache
+C:\Users\15029\Desktop\Program 5 EC\Program 5 EC\obj\Debug\Program 5 EC.csproj.CoreCompileInputs.cache
+C:\Users\15029\Desktop\Program 5 EC\Program 5 EC\obj\Debug\Program 5 EC.exe
+C:\Users\15029\Desktop\Program 5 EC\Program 5 EC\obj\Debug\Program 5 EC.pdb
